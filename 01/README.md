@@ -35,3 +35,4 @@ Kerjakan:
 3. Jalankan file training.py kemudian jelaskan per baris dari kode tersebut
 4. Output dari training menghasilkan satu buah model, buatlah kode program python untuk me load model tersebut kemudian meminta inputan dari user dan outputan dari hasil model
 5. Ukur akurasi dari setiap inputan dan outputan model tersebut kemudian di rekap dalam spreadsheet
+6. Jelaskan setiap error yang didapatkan ketika menjalankan program, berikut solusi untuk mengatasinya
