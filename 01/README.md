@@ -1,4 +1,4 @@
-# Pengenalan AI
+# Pengenalan Kecerdasan Buatan
 
 Teori Menjelaskan :
 * Definisi Kecerdasan Buatan
