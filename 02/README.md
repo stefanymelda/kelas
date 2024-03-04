@@ -10,7 +10,7 @@ Teori Menjelaskan :
 
 ## Pengembangan Dataset
 
-Kembangkan dataset dengan topik masing masing yang dipilih
+Kembangkan dataset dengan topik masing masing yang dipilih sebanyak 400+400 pasang.
 
 ## Optimasi Hyperparameter
 
