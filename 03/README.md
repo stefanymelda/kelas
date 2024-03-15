@@ -1,6 +1,7 @@
 # Pengenalan Model Bahasa Besar
 
-Pelajari dan Pahami teori yang ada [disini](https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61)
+1. Pelajari dan Pahami teori yang ada [disini](https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61)
+2. Kuasai tutorial tentang [LLM di python](https://huggingface.co/docs/transformers/llm_tutorial)
 
 # Penguasaan Bahasa Pemrograman Rust
 1. Kuasai bahasa pemrograman [rust](https://www.tutorialspoint.com/rust/rust_quick_guide.htm). 
