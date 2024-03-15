@@ -7,6 +7,9 @@ Pelajari dan Pahami teori yang ada [disini](https://rpradeepmenon.medium.com/int
 2. Praktekkan contoh deklarasi dan penggunaan variabel di rust
 3. Praktekkan contoh pembuatan dan pemanggilan fungsi di rust
 4. Praktekkan cara memisahkan fungsi dan memanggilnya dari file berbeda di rust
+5. Praktekkan cara penggunaan cargo dan file cargo.toml
+6. Jelaskan kegunaan crates.io
+7. Jelaskan perbedaan membuat library dan file utama di rust
 
 
 # Penguasaan Hugging Face
