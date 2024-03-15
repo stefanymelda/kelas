@@ -11,6 +11,7 @@
 5. Praktekkan cara penggunaan cargo dan penjelasan setiap baris di file cargo.toml
 6. Jelaskan kegunaan crates.io
 7. Jelaskan perbedaan membuat library dan file utama di rust
+8. Praktekkan membuat web service di rust dengan panduan dari [inarust.github.io](https://inarust.github.io/)
 
 
 # Penguasaan Hugging Face
