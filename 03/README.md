@@ -4,7 +4,7 @@
 2. Kuasai tutorial tentang [LLM di python](https://huggingface.co/docs/transformers/llm_tutorial)
 
 # Penguasaan Bahasa Pemrograman Rust
-1. Mecoba semua menu di [rust tutorials point](https://www.tutorialspoint.com/rust/rust_quick_guide.htm) sertakan buktinya. (nilai:5)
+1. Latihan sebanyak 8 jam mengikuti buku [8 Jam Belajar Rust](./8jamrust.pdf) sertakan buktinya. (nilai:5)
 2. Praktekkan ownership,reference,borrowing,clone,copy,scope,mutable,dangling,slice disertakan contoh deklarasi dan contoh penggunaannya sebanyak 10 contoh. (nilai:5)
 3. Praktekkan contoh pembuatan dan pemanggilan struct dan function sebanyak 10. (nilai:5)
 4. Praktekkan cara memisahkan fungsi dan memanggilnya dari file berbeda di rust. (nilai:5)
