@@ -4,14 +4,14 @@
 2. Kuasai tutorial tentang [LLM di python](https://huggingface.co/docs/transformers/llm_tutorial)
 
 # Penguasaan Bahasa Pemrograman Rust
-1. Kuasai bahasa pemrograman [rust](https://www.tutorialspoint.com/rust/rust_quick_guide.htm). 
-2. Praktekkan contoh deklarasi dan penggunaan variabel di rust
-3. Praktekkan contoh pembuatan dan pemanggilan fungsi di rust
-4. Praktekkan cara memisahkan fungsi dan memanggilnya dari file berbeda di rust
-5. Praktekkan cara penggunaan cargo dan penjelasan setiap baris di file cargo.toml
-6. Jelaskan kegunaan crates.io
-7. Jelaskan perbedaan membuat library dan file utama di rust
-8. Praktekkan membuat web service di rust dengan panduan dari [inarust.github.io](https://inarust.github.io/)
+1. Mecoba semua menu di [rust tutorials point](https://www.tutorialspoint.com/rust/rust_quick_guide.htm) sertakan buktinya. (nilai:5)
+2. Praktekkan contoh deklarasi dan penggunaan 10 variabel di rust. (nilai:5)
+3. Praktekkan contoh pembuatan dan pemanggilan 10 fungsi di rust. (nilai:5)
+4. Praktekkan cara memisahkan fungsi dan memanggilnya dari file berbeda di rust. (nilai:5)
+5. Praktekkan cara penggunaan dan perbedaan perintah cargo run dan cargo build, serta penjelasan setiap baris di file cargo.toml. (nilai:5)
+6. Jelaskan kegunaan crates.io. (nilai:5)
+7. Jelaskan perbedaan membuat library dan file utama di rust. (nilai:5)
+8. Praktekkan membuat web service di rust dengan panduan dari [inarust.github.io](https://inarust.github.io/). (nilai:5)
 
 
 # Penguasaan Hugging Face
