@@ -31,10 +31,9 @@
 
 7. Jelaskan perbedaan membuat library dan file utama di rust. (nilai:5)
 =>
-### Library (crate):
-Sebuah library dalam Rust adalah kumpulan fungsi-fungsi dan struktur data yang dapat digunakan oleh aplikasi lain. Biasanya dibuat dengan tujuan untuk digunakan kembali dalam berbagai proyek. Dapat diakses dan digunakan oleh aplikasi lain dengan menambahkan dependensi pada file Cargo.toml proyek mereka. Dikompilasi menjadi sebuah file .rlib atau .so (shared object) yang kemudian dapat diinkorporasikan ke dalam aplikasi lain.
-### File Utama:
-File utama dalam Rust adalah file yang berfungsi sebagai titik masuk utama ke dalam aplikasi. Biasanya berisi fungsi main() yang akan dijalankan pertama kali ketika program dijalankan. Digunakan untuk mengatur logika program, menginisialisasi struktur data, memanggil fungsi dari library eksternal, dan menjalankan proses aplikasi secara keseluruhan. File utama biasanya merupakan bagian dari proyek aplikasi dan menggunakan library-library atau crate-crate yang diperlukan untuk membangun fungsionalitasnya. Jadi, intinya adalah bahwa library berisi kode yang bisa digunakan oleh proyek lain, sementara file utama adalah bagian utama dari proyek yang mengatur jalannya aplikasi.
+- library = digunakan untuk membuat kode yang dapat digunakan kembali oleh proyek lain.
+- file utama = digunakan untuk membuat program yang dapat dieksekusi.
+Jadi, intinya adalah bahwa library berisi kode yang bisa digunakan oleh proyek lain, sementara file utama adalah bagian utama dari proyek yang mengatur jalannya aplikasi.
 
 8. Praktekkan membuat web service di rust dengan panduan dari [inarust.github.io](https://inarust.github.io/). (nilai:5)
 
